@@ -16,6 +16,7 @@ Structura proiectului:
     -networking.hpp: fisier neschimbat fata de schelet;
 
 Abordarea algoritmica:
+
     - Pas I: atribuim fiecarui camp aflat la granita teritoriului bot-ului un
     scor; scorului fiecarui site este calculat pe baza parametrilor sai -
     production si strength - folosind urmatoarea formula (constantele sunt 
